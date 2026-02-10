@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tala7t/Crud-method/static/css/main.a42051d5.css",
-    "main.js": "/tala7t/Crud-method/static/js/main.05a23395.js",
-    "static/js/453.fd2f0c4a.chunk.js": "/tala7t/Crud-method/static/js/453.fd2f0c4a.chunk.js",
-    "index.html": "/tala7t/Crud-method/index.html",
-    "main.a42051d5.css.map": "/tala7t/Crud-method/static/css/main.a42051d5.css.map",
-    "main.05a23395.js.map": "/tala7t/Crud-method/static/js/main.05a23395.js.map",
-    "453.fd2f0c4a.chunk.js.map": "/tala7t/Crud-method/static/js/453.fd2f0c4a.chunk.js.map"
+    "main.css": "/Crud-method/static/css/main.a42051d5.css",
+    "main.js": "/Crud-method/static/js/main.c648eafa.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/Crud-method/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/Crud-method/index.html",
+    "main.a42051d5.css.map": "/Crud-method/static/css/main.a42051d5.css.map",
+    "main.c648eafa.js.map": "/Crud-method/static/js/main.c648eafa.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/Crud-method/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a42051d5.css",
-    "static/js/main.05a23395.js"
+    "static/js/main.c648eafa.js"
   ]
 }
